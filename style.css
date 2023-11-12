@@ -54,7 +54,7 @@ nav ul li a:hover{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 100px 0;
+    margin: 70px 0;
 }
 
 .col-1{
@@ -150,4 +150,20 @@ button:hover{
 .add-btn img{
     width: 35px;
     margin-bottom: 5px;
+}
+
+.add-btn{
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+}
+
+.social-links img{
+     height: 13px;
+     margin: 20px;
+     cursor: pointer;
+}
+
+.social-links{
+    text-align: center;
 }
